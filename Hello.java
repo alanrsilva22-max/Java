@@ -6,5 +6,5 @@ public class Hello {
 
         System.out.println("A soma de " + a + " + " + b + " é: " + soma);
 
-    }ps
+    }
 }
