@@ -1,3 +1,5 @@
+package SistemaEscolar;
+
 public class Aluno {
     //Atributos (os campos do nosso registro)
     String nome;
